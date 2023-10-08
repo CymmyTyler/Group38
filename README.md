@@ -21,3 +21,4 @@ This Python program is a basic interactive application that fulfills the followi
 ## Group Members
 
 - Member 1: [Tyler Cymmerman]
+- Member 2: [Foster Stravino]
