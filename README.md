@@ -12,7 +12,7 @@ This Python program is a basic interactive application that fulfills the followi
 
 ## How to Use
 
-1. Open the Jupyter notebook "Something Program.ipynb."
+1. Open the Jupyter notebook "Group38-Something-code.ipynb."
 2. Run the program by executing the cells.
 3. Enter your name when prompted.
 4. Enter some other input when prompted.
