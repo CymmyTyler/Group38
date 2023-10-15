@@ -19,7 +19,7 @@
 
 ## Reporting and Enforcement
 
-Please report any incidents to [Tyler Cymmerman or Foster Stravino]. We will review and take appropriate action.
+Please report any incidents to Tyler Cymmerman or Foster Stravino. We will review and take appropriate action.
 
 ## Acknowledgment
 
@@ -27,4 +27,4 @@ By participating in [Something-program], you agree to respect and follow this Co
 
 ## Contact Information
 
-For questions, concerns, or reporting incidents, please contact [Tyler Cymmerman or Foster Stravino].
+For questions, concerns, or reporting incidents, please contact Tyler Cymmerman or Foster Stravino.
