@@ -1,8 +1,8 @@
-# Code of Conduct for [Group-38-Something-program]
+# Code of Conduct for [Something-program]
 
 ## Purpose
 
-[Group-38-Something-program] values a friendly and inclusive community. Our goal is to create a welcoming space for all, regardless of background or experience. Fill free to chech the code out or make any friendly changes.
+[Something-program] values a friendly and inclusive community. Our goal is to create a welcoming space for all, regardless of background or experience. Fill free to chech the code out or make any friendly changes.
 
 ## Expected Behavior
 
@@ -23,8 +23,8 @@ Please report any incidents to [Tyler Cymmerman or Foster Stravino]. We will rev
 
 ## Acknowledgment
 
-By participating in [Group-38-Something-program], you agree to respect and follow this Code of Conduct.
+By participating in [Something-program], you agree to respect and follow this Code of Conduct.
 
 ## Contact Information
 
-For questions, concerns, or reporting incidents, please contact [Tyler Cymmerm].
+For questions, concerns, or reporting incidents, please contact [Tyler Cymmerman or Foster Stravino].
